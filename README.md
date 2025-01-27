@@ -1,5 +1,9 @@
 # Penzion u vody
 
+## Odkaz na netlify:
+
+https://penzionuvody-duben.netlify.app/
+
 Povinný úkol.
 
 - [Cíl úkolu](#Cíl-úkolu)
